@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SGLABE</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_matricula">Matrícula</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Acesso</string>
+    <string name="error_invalid_matricula">Esta matricula é inválida</string>
+    <string name="error_invalid_password">Esta senha é muito curta</string>
+    <string name="error_incorrect_password">A senha esta incorreta</string>
+    <string name="error_field_required">Este campo é obrigatório</string>
+    <string name="permission_rationale">"Permissões de contatos são necessárias para fornecer email
+        conclusões."
+    </string>
+    <string name="title_activity_principal">SGLABE</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">SGLABE</string>
+    <string name="nav_header_subtitle">Bem-vindo</string>
+    <string name="nav_header_desc">Cabeçalho de navegação</string>
+    <string name="action_settings">Configurações</string>
+</resources>
